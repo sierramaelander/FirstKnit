@@ -1,6 +1,6 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Sierra Lander"
 output: 
   html_document:
     number_sections: true
@@ -16,7 +16,10 @@ Here are just a few questions so I can get to know you and so you can get practi
 ## A short history of you.  
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
-### my answer     
+### my answer
+I went to Tehachapi High school and I did graduate.
+I have always liked English more than math because english is easier for me. 
+I think the subject I did best in overall was English 
   
 
      
